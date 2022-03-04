@@ -1,0 +1,8 @@
+tfèEøk
+TTóÙWi
+74 66 fffd 45 fffd fffd 6b 54 54 fffd fffd 1d 57 69
+7466e88d4595f86b0d5454f3d91d5769
+
+偽女子->xn--czq51t5pb->zq5->md5
+柳枊曳曳棘朿->xn--mova2urk5r76b->ova2urk->hex2bin（这里应该是16转ascii）
+哪咧嘩唔咬哤->xn--surk2ova5so5d->urk2ova->bin2hex（这里应该是acsii转16）
